@@ -22,3 +22,6 @@ Course repository for Advanced Economic Theory 2016
 ## Open source and intellectual property
 
 * [Open-source license](https://en.wikipedia.org/wiki/Open-source_license)
+* [Open source licensing](https://help.github.com/articles/open-source-licensing/)
+* [choosealicense.com](http://choosealicense.com)
+
