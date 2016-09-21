@@ -13,11 +13,26 @@ Course repository for Advanced Economic Theory 2016
 * [Games.jl](https://github.com/QuantEcon/Games.jl)
   * [Tools for Game Theory](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/game_theory_jl.ipynb)
 * [QuantEcon Notebooks](http://quantecon.org/notebooks.html)
+
+## Candidate topics for presentations/projects
+
+* Implement the Lemke-paths algorithm (Lemke 1965)
+* Implement the Lemke-Howson algorithm (Lemke and Howson 1964)
+* Implement the algorithm in McLennan and Tourky (2006)
+* Implement the algorithms in Avis et al. (2010)
 * [Gambit](https://github.com/gambitproject/gambit)
 * [LRSLib.jl](https://github.com/blegat/LRSLib.jl)
 * [CDDLib.jl](https://github.com/blegat/CDDLib.jl)
 * [pycddlib](https://github.com/mcmtroffaes/pycddlib)
 * [GAMUT](http://gamut.stanford.edu)
+* Simulate population game dynamics
+* [stationary](https://github.com/marcharper/stationary)
+* Replicate simulation results from matching theory
+* Topics from [quant-econ.net](http://quant-econ.net)
+* [CompEcon.jl](https://github.com/spencerlyon2/CompEcon.jl)
+* [Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics)
+* [Blaze](http://blaze.pydata.org)
+* 
 
 ## Open source and intellectual property
 
