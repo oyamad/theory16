@@ -13,6 +13,7 @@ Course repository for Advanced Economic Theory 2016
 * [Games.jl](https://github.com/QuantEcon/Games.jl)
   * [Tools for Game Theory](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/game_theory_jl.ipynb)
 * [QuantEcon Notebooks](http://quantecon.org/notebooks.html)
+* [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016)
 
 ## Candidate topics for presentations/projects
 
