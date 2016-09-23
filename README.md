@@ -21,6 +21,8 @@ Course repository for Advanced Economic Theory 2016
 * Implement the Lemke-Howson algorithm (Lemke and Howson 1964)
 * Implement the algorithm in McLennan and Tourky (2006)
 * Implement the algorithms in Avis et al. (2010)
+* Implement an algorithm that detects (non-)degeneracy of a given normal form game
+* [IG Package](http://cupid.economics.uq.edu.au/mclennan/Software/ig-man_all-1.1.pdf)
 * [Gambit](https://github.com/gambitproject/gambit)
 * [LRSLib.jl](https://github.com/blegat/LRSLib.jl)
 * [CDDLib.jl](https://github.com/blegat/CDDLib.jl)
