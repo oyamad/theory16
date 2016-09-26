@@ -35,6 +35,8 @@ Course repository for Advanced Economic Theory 2016
 * [CompEcon.jl](https://github.com/spencerlyon2/CompEcon.jl)
 * [Comparison of Programming Languages in Economics](https://github.com/jesusfv/Comparison-Programming-Languages-Economics)
 * [Blaze](http://blaze.pydata.org)
+* LP approach to mechanism design
+  * Othman and Sandholm (2009) "[How Pervasive is the Myerson-Satterthwaite Impossibility](https://www.cs.cmu.edu/~sandholm/myersat.ijcai09.pdf)"
 * 
 
 ## Open source and intellectual property
