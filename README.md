@@ -1,6 +1,13 @@
 # theory16
 Course repository for Advanced Economic Theory 2016
 
+## Homeworks
+
+* [Homework 1](hw01.md):
+  Set up your development environment
+* [Homework 2](hw02.md):
+  Implement the support enumeration algorithm
+
 ## Resources
 
 * [quant-econ.net](http://quant-econ.net)
