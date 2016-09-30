@@ -21,6 +21,8 @@ Course repository for Advanced Economic Theory 2016
   * [Tools for Game Theory](http://nbviewer.jupyter.org/github/QuantEcon/QuantEcon.notebooks/blob/master/game_theory_jl.ipynb)
 * [QuantEcon Notebooks](http://quantecon.org/notebooks.html)
 * [quantecon_nyu_2016](https://github.com/jstac/quantecon_nyu_2016)
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [PEP8 online](http://pep8online.com)
 
 ## Candidate topics for presentations/projects
 
@@ -31,6 +33,7 @@ Course repository for Advanced Economic Theory 2016
 * Implement an algorithm that detects (non-)degeneracy of a given normal form game
 * [IG Package](http://cupid.economics.uq.edu.au/mclennan/Software/ig-man_all-1.1.pdf)
 * [Gambit](https://github.com/gambitproject/gambit)
+* [lrs](http://cgm.cs.mcgill.ca/~avis/C/lrs.html)
 * [LRSLib.jl](https://github.com/blegat/LRSLib.jl)
 * [CDDLib.jl](https://github.com/blegat/CDDLib.jl)
 * [pycddlib](https://github.com/mcmtroffaes/pycddlib)
@@ -51,4 +54,3 @@ Course repository for Advanced Economic Theory 2016
 * [Open-source license](https://en.wikipedia.org/wiki/Open-source_license)
 * [Open source licensing](https://help.github.com/articles/open-source-licensing/)
 * [choosealicense.com](http://choosealicense.com)
-
