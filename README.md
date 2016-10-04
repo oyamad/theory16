@@ -47,6 +47,13 @@ Course repository for Advanced Economic Theory 2016
 * [Blaze](http://blaze.pydata.org)
 * LP approach to mechanism design
   * Othman and Sandholm (2009) "[How Pervasive is the Myerson-Satterthwaite Impossibility](https://www.cs.cmu.edu/~sandholm/myersat.ijcai09.pdf)"
+* Partially observable Markov decision processes (POMDPs)
+  * [POMDP.org](http://www.pomdp.org)
+  * Search with Offer Distribution Unknown
+    [[Python](http://lectures.quantecon.org/py/odu.html),
+     [Julia](http://lectures.quantecon.org/jl/odu.html)]
+  * [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl)
+  * [POMDPSolve.jl](https://github.com/JuliaPOMDP/POMDPSolve.jl)
 * 
 
 ## Open source and intellectual property
