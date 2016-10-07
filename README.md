@@ -7,6 +7,8 @@ Course repository for Advanced Economic Theory 2016
   Set up your development environment
 * [Homework 2](hw02.md):
   Implement the support enumeration algorithm
+* [Homework 3](hw03.md):
+  Implement the Lemke-Howson algorithm
 
 ## Resources
 
