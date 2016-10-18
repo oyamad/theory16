@@ -40,6 +40,7 @@ Course repository for Advanced Economic Theory 2016
 * [CDDLib.jl](https://github.com/blegat/CDDLib.jl)
 * [pycddlib](https://github.com/mcmtroffaes/pycddlib)
 * [GAMUT](http://gamut.stanford.edu)
+* Codenotti, De Rossi, and Pagan (2008) "[An experimental analysis of Lemke-Howson algorithm](https://arxiv.org/abs/0811.3247)"
 * Simulate population game dynamics
 * [stationary](https://github.com/marcharper/stationary)
 * Replicate simulation results from matching theory
@@ -56,6 +57,8 @@ Course repository for Advanced Economic Theory 2016
      [Julia](http://lectures.quantecon.org/jl/odu.html)]
   * [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl)
   * [POMDPSolve.jl](https://github.com/JuliaPOMDP/POMDPSolve.jl)
+* Repeated games
+  * Abreu and Sannikov (2014) "[An algorithm for two-player repeated games with perfect monitoring](https://econtheory.org/ojs/index.php/te/article/viewFile/1302/10807/322)"
 * 
 
 ## Open source and intellectual property
