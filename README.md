@@ -11,6 +11,8 @@ Course repository for Advanced Economic Theory 2016
   Implement the Lemke-Howson algorithm
 * [Homework 4](hw04.md):
   Implement the McLennan-Tourky algorithm
+* [Homework 5](hw05.md):
+  Replicate the simulation results in Codenotti, De Rossi, and Pagan (2008)
 
 ## Resources
 
