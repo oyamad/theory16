@@ -9,6 +9,8 @@ Course repository for Advanced Economic Theory 2016
   Implement the support enumeration algorithm
 * [Homework 3](hw03.md):
   Implement the Lemke-Howson algorithm
+* [Homework 4](hw04.md):
+  Implement the McLennan-Tourky algorithm
 
 ## Resources
 
