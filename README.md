@@ -62,6 +62,7 @@ Course repository for Advanced Economic Theory 2016
   * [POMDPs.jl](https://github.com/JuliaPOMDP/POMDPs.jl)
   * [POMDPSolve.jl](https://github.com/JuliaPOMDP/POMDPSolve.jl)
 * Repeated games
+  * Judd, Yeltekin, and Conkli (2003) "[Computing Supergame Equilibria](http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.t01-1-00445/abstract)"
   * Abreu and Sannikov (2014) "[An algorithm for two-player repeated games with perfect monitoring](https://econtheory.org/ojs/index.php/te/article/viewFile/1302/10807/322)"
 * 
 
